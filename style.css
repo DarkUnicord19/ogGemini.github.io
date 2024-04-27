@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#story {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#choice1, #choice2 {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#choice3 {
+    background-color: #f44336;
+    color: white;
+}
